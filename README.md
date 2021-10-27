@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on backend software
-- 🌱 I’m currently learning Java and React
+- 🌱 I’m currently learning Java 
 - 📫 How to reach me: omeraranofficial@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/ömer-aran-3783bb167/">Ömer Aran</a>
 
