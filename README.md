@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Full-stack software
+
 - 🌱 I’m currently learning Java, springboot and react.js
 - 📫 How to reach me: omeraranofficial@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/ömer-aran-3783bb167/">Ömer Aran</a>
