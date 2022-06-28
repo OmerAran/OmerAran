@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Java, springboot and react.js
+- 🌱 I’m currently work on web backend technologies like java, c# and their frameworks(spring, springboot and ASP.Net Core / MVC). I also interested in Database management so I often use database like mssql, mysql, h2-console in my projects.
 - 📫 How to reach me: omeraranofficial@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/ömer-aran-3783bb167/">Ömer Aran</a>
 
