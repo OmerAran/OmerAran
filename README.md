@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<p>I am Ömer and a Computer Engineer student at Kocaeli University.</p>
 - 🌱 I’m currently work on web backend technologies like java, c# and their frameworks(spring, springboot and ASP.Net Core / MVC). I also interested in Database management so I often use database like mssql, mysql, h2-console in my projects.
 - 📫 How to reach me: omeraranofficial@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/ömer-aran-3783bb167/">Ömer Aran</a>
