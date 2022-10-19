@@ -6,5 +6,5 @@
 - Linkedin : <a href="https://www.linkedin.com/in/ömer-aran-3783bb167/">Ömer Aran</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=OmerAran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
- ## ![visitors](https://visitor-badge.glitch.me/badge?page_id=${omeraran}.${omeraran})
+ ## Visitor : ![visitors](https://visitor-badge.glitch.me/badge?page_id=${omeraran}.${omeraran})
 
