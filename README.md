@@ -7,4 +7,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=OmerAran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  # visitors number: ![visitors](https://visitor-badge.glitch.me/badge?page_id=${omeraran}.${omeraran}) 
- # linkedin : [linkedin] : https://linkedin/in/omeraran
+ # linkedin : [linkedin] : https://linkedin.com/in/omeraran
