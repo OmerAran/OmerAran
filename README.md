@@ -2,9 +2,9 @@
 
 # about me
 <div align="center">I'm a student and backend developer.</div>
-- I am working as a backend developer for Fitekno.
-- I am interested in solving problems with software.
-- I have some projects which named micronote, account, micro-login and some private ones to learn and improve myself.
+- I am working as a backend developer for Fitekno.<br/>
+- I am interested in solving problems with software.<br/>
+- I have some projects which named micronote, account, micro-login and some private ones to learn and improve myself.<br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=omeraran&show_icons=true&count_private=false&hide_border=true" align="center" /></div> 
 <br/>
