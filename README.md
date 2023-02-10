@@ -12,9 +12,9 @@
 <div align="center">
 
 [![Backend](https://skillicons.dev/icons?i=java,cs)]<br>
-[![Frameworks](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet)](https://skillicons.dev)
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,sass)](https://skillicons.dev)
-[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=postman,idea,androidstudio,eclipse,vscode,visualstudio,latex,md)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet)]<br>
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,sass)]<br>
+[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)]<br>
+[![Tools](https://skillicons.dev/icons?i=postman,idea,androidstudio,eclipse,vscode,visualstudio,latex,md)]<br>
 
 </div>
