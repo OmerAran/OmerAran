@@ -10,11 +10,11 @@
 <br/>
 <div align="center">
 
-[![Backend](https://skillicons.dev/icons?i=java,cs)](https://www.linkedin.com/in/omeraran/)<br/>
-[![Frameworks](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet)](https://www.linkedin.com/in/omeraran/)<br/>
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,sass)](https://www.linkedin.com/in/omeraran/)<br/>
-[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://www.linkedin.com/in/omeraran/)<br/>
-[![Tools](https://skillicons.dev/icons?i=postman,idea,androidstudio,eclipse,vscode,visualstudio,latex,md)](https://www.linkedin.com/in/omeraran/)<br/>
+- backend : [![Backend](https://skillicons.dev/icons?i=java,cs)](https://www.linkedin.com/in/omeraran/)<br/>
+- frameworks : [![Frameworks](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet)](https://www.linkedin.com/in/omeraran/)<br/>
+- frontend : [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,sass)](https://www.linkedin.com/in/omeraran/)<br/>
+- database : [![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://www.linkedin.com/in/omeraran/)<br/>
+- tools : [![Tools](https://skillicons.dev/icons?i=postman,idea,androidstudio,eclipse,vscode,visualstudio,latex,md)](https://www.linkedin.com/in/omeraran/)<br/>
 <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=omeraran&&style=flat-square" align="center" alt="omeraran"/>
