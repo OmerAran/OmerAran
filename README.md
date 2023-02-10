@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1500&color=020100&width=700&lines=Love+to+Solve+Problems+As+A+Backend+Developer" alt="Typing SVG"/>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1500&color=020100&width=700&lines=Love+to+Solve+Problems+As+A+Backend+Developer" alt="omeraran"/>
 
 # about me
 <div align="center">I'm a student and backend developer.</div>
@@ -6,7 +6,7 @@
 - I am interested in solving problems with software.<br/>
 - I have some projects which named micronote, account, micro-login and some private ones to learn and improve myself.<br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=omeraran&show_icons=true&count_private=false&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=omeraran&show_icons=true&count_private=false&hide_border=true" align="center" alt="omeraran" /></div> 
 <br/>
 <div align="center">
 
@@ -17,6 +17,9 @@
 [![Tools](https://skillicons.dev/icons?i=postman,idea,androidstudio,eclipse,vscode,visualstudio,latex,md)](https://www.linkedin.com/in/omeraran/)<br/>
 <br/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=omeraran&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=omeraran&&style=flat-square" align="center" alt="omeraran"/>
 </div>  
+  <footer>
+    - Designed by Ömer Aran
+  </footer>
 </div>
