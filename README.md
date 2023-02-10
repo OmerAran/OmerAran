@@ -11,10 +11,10 @@
 
 <div align="center">
 
-[![Backend](https://skillicons.dev/icons?i=java,cs)]<br>
-[![Frameworks](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet)]<br>
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,sass)]<br>
-[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)]<br>
-[![Tools](https://skillicons.dev/icons?i=postman,idea,androidstudio,eclipse,vscode,visualstudio,latex,md)]<br>
+[![Backend](https://skillicons.dev/icons?i=java,cs)](https://www.linkedin.com/in/omeraran/)<br>
+[![Frameworks](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet)](https://www.linkedin.com/in/omeraran/)<br>
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,sass)](https://www.linkedin.com/in/omeraran/)<br>
+[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://www.linkedin.com/in/omeraran/)<br>
+[![Tools](https://skillicons.dev/icons?i=postman,idea,androidstudio,eclipse,vscode,visualstudio,latex,md)](https://www.linkedin.com/in/omeraran/)<br>
 
 </div>
