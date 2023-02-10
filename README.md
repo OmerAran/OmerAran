@@ -1,4 +1,4 @@
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=4500&color=020100&width=200&lines=Love+to+Solve+Problems+As+A+Backend+Developer+%F0%9F%91%8B" alt="Typing SVG"/></a>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=4500&color=020100&width=700&lines=Love+to+Solve+Problems+As+A+Backend+Developer" alt="Typing SVG"/></a>
 
 <p>I am Ömer and a Computer Engineer student at Kocaeli University.</p>
 - 🌱 I’m currently work on web backend technologies like java, c# and their frameworks(spring, springboot and ASP.Net Core / MVC). I also interested in Database management so I often use database like PostgreSQL,MSSQL, MYSQL, h2-Console in my projects.
