@@ -11,5 +11,10 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,git)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,sass)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postman,idea,androidstudio,eclipse,vscode,visualstudio,latex,md)](https://skillicons.dev)
+
 </div>
