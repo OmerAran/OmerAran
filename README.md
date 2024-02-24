@@ -10,6 +10,7 @@
 
 ###
 
+<img align="right" height="150" src="https://github.com/OmerAran/OmerAran/blob/main/laptop.gif"/>
 
 
 ###
